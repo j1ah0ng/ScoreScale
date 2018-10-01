@@ -1,8 +1,8 @@
 import math as m
 scale = input("scale factor: ")
-scalaksfhlkjdsfeFloat = float(scale)
+scaleF = float(scale)
 print("begin: ")
 while True:
-	x	= input()
+	x	= input("enter score: ")
 	xFloat	= float(x)
 	print(m.ceil(2*xInt*scaleF)/2)
