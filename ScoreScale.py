@@ -5,4 +5,4 @@ print("begin: ")
 while True:
 	x	= input("Score: ")
 	xFloat	= float(x)
-	print(m.ceil(2*xInt*scaleF)/2)
+	print(m.ceil(2*xFloat*scaleF)/2)
