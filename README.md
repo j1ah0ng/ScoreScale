@@ -21,4 +21,4 @@ due to usage of the `print` function.
 ### Java
 Compile and run as per any Java program.
 #### All platforms
-`java ScoreScale`
+`java -cp . ScoreScale`
